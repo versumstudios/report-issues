@@ -1,17 +1,17 @@
 # report-issues
 
-In an effort to try to document bug more effectively than leaving them on our Discord we have created this github.
+In an effort to try to document issues more effectively than leaving them on our Discord we have created this github repository.
 
-It requires users to have an account with Github.
+It requires users to have an account with Github, which is free.
 
-Please have a read through the existing issues tab. Someone might already have reported the same thing you did. If that's the case, leave a comment on that issue, do not create a new one. comments like +1 are discouraged. If you support a specific issue use emoji's to show support, but do not create separate comments that might not add value. This is because every comment generates an email and we want to be able to quickly identify a pressing issue.
+Please have a read through the existing issues tab. Someone might already have reported the same issue you are experiencing. If that's the case, leave a comment on that issue, do not create a new one. comments like +1 are discouraged. If you support a specific issue use emoji's to show support, but do not create separate comments that might not add value. This is because every comment generates an email and we want to be able to quickly identify a pressing issue.
 
 When creating an "issue" you are able to pick up from 2 templates:
 
 - Bug Report
-- Feature Request.
+- Feature Request
 
-Please note we have a code of conduct, please follow it in all your interactions with the project.
+Please note we have a [code of conduct](https://versumstudios.github.io/legal/code-of-conduct-0.0.0.html), please follow it in all your interactions with the project.
 
 ## Bug Report
 
@@ -19,7 +19,7 @@ If your issue is a bug, open one
 [here](https://github.com/versumstudios/report-issues/issues/new?assignees=&labels=&template=bug_report.md&title=).
 Follow the instructions on our bug report template.
 
-Issues with limited description will not help us reproduce or investigate it properly. Please leave screenshots of your browser dev tools so any javascript error can be picked up and the cause identified. Please leave a description of what exactly you were trying to do so we can reproduce the same steps and hit that same error.
+Issues with limited description will not help us reproduce or investigate it properly. Issues with just a title and template submissions will be close without resolution. Please take enough time to describe the issue you have. It helps if you leave screenshots of your browser dev tools so any javascript error can be picked up and the cause identified. Please leave a description of what exactly you were trying to do so we can reproduce the same steps and hit that same error.
 
 ## Feature Request
 
